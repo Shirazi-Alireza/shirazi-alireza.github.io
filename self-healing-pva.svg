@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 340" role="img" aria-labelledby="t d">
+<title id="t">PVA-coated LECA self-healing mechanism</title>
+<desc id="d">Concrete cracks, the PVA coating on a sodium silicate-loaded lightweight aggregate is breached, sodium silicate is released, reacts with calcium hydroxide, and C-S-H seals the crack.</desc>
+<rect width="1280" height="340" rx="18" fill="#eff6f5"/>
+<text x="40" y="45" fill="#193b45" font-family="Inter,Arial,sans-serif" font-size="23" font-weight="700">Self-healing mechanism</text>
+<text x="40" y="70" fill="#4f6870" font-family="Inter,Arial,sans-serif" font-size="13">PVA-coated, sodium silicate-impregnated lightweight expanded clay aggregate (LECA)</text>
+<defs><marker id="arrow" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0 0L7 3.5L0 7" fill="none" stroke="#297d78" stroke-width="1.4"/></marker></defs>
+<!-- Five stages -->
+<g fill="#FFF" stroke="#c9dfda" stroke-width="1.5">
+<rect x="30" y="95" width="224" height="208" rx="13"/><rect x="279" y="95" width="224" height="208" rx="13"/><rect x="528" y="95" width="224" height="208" rx="13"/><rect x="777" y="95" width="224" height="208" rx="13"/><rect x="1026" y="95" width="224" height="208" rx="13"/>
+</g>
+<g stroke="#297d78" stroke-width="2" fill="none" marker-end="url(#arrow)"><path d="M258 183h15"/><path d="M507 183h15"/><path d="M756 183h15"/><path d="M1005 183h15"/></g>
+<!-- 1 cracking -->
+<g transform="translate(95 111)"><path d="M0 0h95v82H0z" fill="#e1ede9"/><path d="M48 0l-12 19 19 18-16 17 8 28" stroke="#193b45" stroke-width="4" fill="none"/><circle cx="13" cy="17" r="7" fill="#B8CDD9"/><circle cx="77" cy="65" r="9" fill="#B8CDD9"/></g>
+<!-- 2 coating break -->
+<g transform="translate(347 113)"><circle cx="43" cy="39" r="37" fill="#d2e9e4" stroke="#297d78" stroke-width="7" stroke-dasharray="140 13 60 20"/><circle cx="43" cy="39" r="27" fill="#C6DFE9" stroke="#86B8C7" stroke-width="1.5"/>
+<g fill="#297d78"><circle cx="29" cy="31" r="5"/><circle cx="53" cy="27" r="5"/><circle cx="43" cy="51" r="5"/></g><path d="M86 23l-18 7" stroke="#193b45" stroke-width="2" stroke-dasharray="3 3"/></g>
+<!-- 3 release -->
+<g transform="translate(592 117)"><circle cx="36" cy="34" r="32" fill="#d2e9e4" stroke="#297d78" stroke-width="5" stroke-dasharray="112 14 48 18"/>
+<g fill="#297d78"><circle cx="26" cy="33" r="5"/><circle cx="47" cy="24" r="5"/><circle cx="42" cy="44" r="5"/><circle cx="89" cy="20" r="5"/><circle cx="105" cy="34" r="5"/><circle cx="83" cy="54" r="5"/></g><path d="M65 34h30" stroke="#297d78" stroke-width="2.5" marker-end="url(#arrow)"/></g>
+<!-- 4 reaction -->
+<g transform="translate(838 116)"><g fill="#297d78"><circle cx="17" cy="25" r="9"/><circle cx="31" cy="50" r="9"/></g><text x="44" y="41" fill="#526a70" font-size="21" font-family="Arial">+</text><g fill="#58ADA2"><circle cx="75" cy="25" r="10"/><circle cx="90" cy="50" r="10"/></g><path d="M22 70h65" stroke="#8FBAC4" stroke-width="1.5" stroke-dasharray="4 4"/></g>
+<!-- 5 healing -->
+<g transform="translate(1088 111)"><path d="M0 0h95v82H0z" fill="#e1ede9"/><path d="M48 0l-12 19 19 18-16 17 8 28" stroke="#193b45" stroke-width="4" fill="none"/><path d="M46 11l-4 13 9 13-9 17 5 18" stroke="#50ADA0" stroke-width="15" stroke-linecap="round" fill="none" opacity="0.95"/></g>
+<g font-family="Inter,Arial,sans-serif" text-anchor="middle">
+<g fill="#193b45" font-size="15" font-weight="700"><text x="142" y="232">Crack formation</text><text x="391" y="232">PVA coating rupture</text><text x="640" y="232">Na₂SiO₃ release</text><text x="889" y="232">Reaction with Ca(OH)₂</text><text x="1138" y="232">C–S–H formation</text></g>
+<g fill="#526a70" font-size="14"><text x="142" y="253">Concrete matrix</text><text x="391" y="253">Coated LECA is exposed</text><text x="640" y="253">Healing agent enters crack</text><text x="889" y="253">Calcium hydroxide in cement</text><text x="1138" y="253">Crack sealing</text></g>
+</g>
+<g font-family="Inter,Arial,sans-serif" font-size="13" fill="#526a70"><circle cx="44" cy="323" r="5" fill="#297d78"/><text x="56" y="327">Sodium silicate</text><circle cx="190" cy="323" r="5" fill="#58ADA2"/><text x="202" y="327">Calcium hydroxide / healing product</text><text x="1235" y="327" text-anchor="end">Conceptual schematic · Not to scale</text></g>
+</svg>
