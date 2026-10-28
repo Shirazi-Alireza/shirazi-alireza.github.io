@@ -41,3 +41,10 @@ header{position:sticky;top:0;z-index:30;background:rgba(255,255,255,.91);backdro
 
 /* Text-only research introduction. */
 .story-layout-text{display:block}.story-layout-text .story{max-width:75ch}
+
+/* v19: consistent research prose and justified text across pages. */
+main p,main li,main figcaption,main article h3,footer p{text-align:justify;text-align-last:start;text-justify:inter-word;hyphens:none;overflow-wrap:break-word}
+.story p,.story p:first-child{font-size:16px;line-height:1.8;color:inherit;font-weight:400}
+html[data-theme=dark] .story p,html[data-theme=dark] .story p:first-child{color:var(--text)}
+.badge-submitted{background:#e7eefb;color:#304f86}
+html[data-theme=dark] .badge-submitted{background:#293e60;color:#dbe7ff}
