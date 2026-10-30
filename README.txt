@@ -1,4 +1,4 @@
-Alireza Shirazi — Website update v24
+Alireza Shirazi — Website update v23
 
 Upload the contents of this ZIP to the ROOT of the existing GitHub Pages repository.
 Keep the assets folder and upload its contents as assets/ (do not flatten it).
@@ -6,14 +6,13 @@ The ZIP contains the full website, including index.html, research.html,
 background.html, style.css, interactions.js, all referenced local images and PDFs.
 Commit the changes, wait for the GitHub Pages deployment, and refresh with Ctrl+F5.
 
-This update widens the shared content area and balances the Research and CV pages
-with responsive information panels and multi-column layouts. The LECA section now
-shows the supplied four-stage preparation graphic beside the process description,
-compact image thumbnails that retain the full-size lightbox, and a full-width
-self-healing mechanism diagram. The former Fig. 1 caption has been removed.
-Publications, book contributions, manuscripts, education, teaching and experience
-are arranged in responsive grids. The Vartan panel is an expandable bilingual
-excerpt and original interpretive note; the complete copyrighted poem and a full
-translation are not reproduced. The poem panel contains no external link.
+Updated: centred text-only research direction; larger portrait; stronger highlight
+cards; differentiated interest chips; warm email CTA; short bilingual Vartan
+excerpt; Publications navigation; manuscript accordions; full-width vector LECA
+mechanism; accessible image lightbox; subtle scroll reveals; social preview.
+The submitted review remains in Work in progress. TA remains ongoing.
 
-The original site assets, CV and existing research content have been retained.
+Not added: university logos (asset retrieval blocked); researcher-at-work photo
+(no authentic photo supplied). Poem is a short excerpt rather than the full text.
+Desktop light/dark appearance and lightbox/accordion behavior were checked.
+Responsive rules are included; a mobile viewport was not available for visual QA.
