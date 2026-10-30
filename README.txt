@@ -16,3 +16,5 @@ Not added: university logos (asset retrieval blocked); researcher-at-work photo
 (no authentic photo supplied). Poem is a short excerpt rather than the full text.
 Desktop light/dark appearance and lightbox/accordion behavior were checked.
 Responsive rules are included; a mobile viewport was not available for visual QA.
+
+Version 24 updates: expandable bilingual Vartan poetry panel on the Home page; Vazirmatn and Literata typography for the literary panel; original LECA preparation workflow and crack-activated healing mechanism SVG diagrams on the Research page; removed the former Fig. 1 explanatory caption. Cache-busting references updated to v24.

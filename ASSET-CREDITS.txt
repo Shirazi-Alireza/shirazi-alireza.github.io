@@ -2,3 +2,5 @@ Home background photograph: Hiroshi Kimura / Unsplash. https://unsplash.com/phot
 Photo file: https://images.unsplash.com/photo-1552628843-89c7c37efc02
 Portrait and experimental photographs supplied by Alireza Shirazi; original files copied without retouching.
 The two publication abstracts were supplied by Alireza Shirazi.
+
+Two original vector diagrams added in v24: LECA preparation workflow and proposed crack-activated release mechanism. The bilingual Vartan poem translation was prepared for the website from the Persian text supplied by the site owner.
