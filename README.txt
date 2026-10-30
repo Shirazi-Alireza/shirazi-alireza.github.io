@@ -1,25 +1,18 @@
-RESEARCH PAGE UPDATE — READY TO UPLOAD
+Alireza Shirazi — Website update v23
 
-This package contains:
-- research.html: the complete updated page, based on the research.html file you uploaded.
-- assets/leca-dry-single.jpg
-- assets/leca-pva-single.jpg
-- assets/leca-dry-group.jpg
-- assets/leca-pva-group.jpg
-- assets/leca-carrier-mechanism.svg
+Upload the contents of this ZIP to the ROOT of the existing GitHub Pages repository.
+Keep the assets folder and upload its contents as assets/ (do not flatten it).
+The ZIP contains the full website, including index.html, research.html,
+background.html, style.css, interactions.js, all referenced local images and PDFs.
+Commit the changes, wait for the GitHub Pages deployment, and refresh with Ctrl+F5.
 
-What changed:
-- Replaced the previous LECA carrier subsection with a concise explanation of the carrier, impregnation, 5% PVA spray coating and warm-air drying.
-- Added the measured 11.98% SSD mass gain.
-- Added four real laboratory photos in a consistent 4:3 gallery, with mild brightness/contrast/sharpness correction and tighter crops. Particle geometry and surface texture were not fabricated or reshaped.
-- Added the supplied mechanism SVG.
-- Added a LECA carrier anchor to the research section navigation.
-- All other content in your uploaded research.html has been preserved.
+Updated: centred text-only research direction; larger portrait; stronger highlight
+cards; differentiated interest chips; warm email CTA; short bilingual Vartan
+excerpt; Publications navigation; manuscript accordions; full-width vector LECA
+mechanism; accessible image lightbox; subtle scroll reveals; social preview.
+The submitted review remains in Work in progress. TA remains ongoing.
 
-Upload instructions:
-1. In your GitHub Pages repository, replace the existing root research.html with this package's research.html.
-2. Upload the four JPGs and the SVG into the repository's assets/ folder. If assets/ does not exist, create it.
-3. Commit the changes.
-4. Wait for GitHub Pages to publish, then hard-refresh research.html (Ctrl+F5).
-
-This package updates the complete Research page, not just a standalone HTML fragment.
+Not added: university logos (asset retrieval blocked); researcher-at-work photo
+(no authentic photo supplied). Poem is a short excerpt rather than the full text.
+Desktop light/dark appearance and lightbox/accordion behavior were checked.
+Responsive rules are included; a mobile viewport was not available for visual QA.
